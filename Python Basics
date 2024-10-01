@@ -1,9 +1,1 @@
-"""
-Created on Monday 01st October 2024
-
-@author: Sankha
-"""
-
-print(bin(10))
-print(int('0b1010',2))
 
